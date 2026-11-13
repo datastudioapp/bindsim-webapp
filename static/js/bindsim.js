@@ -7,7 +7,7 @@ var bindsim = {
         // Simulator backend root endpoint
         endpoint: "https://api.supramolecular.org/bindsim/api",
         plot_id: "plot", // ID of plot container div
-        axis_isotherm: "axis-isotherm",
+       axis_isotherm: "axis-isotherm",
         axis_molefrac: "axis-molefrac",
         forms: "#params-nmr-1to1, #params-nmr-1to2, #params-nmr-2to1, #params-uv-1to1, #params-uv-1to2, #params-uv-2to1",
         button: "#button-plot",
